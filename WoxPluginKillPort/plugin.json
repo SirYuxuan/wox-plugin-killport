@@ -1,0 +1,12 @@
+{
+  "ID":"5E5BA631FAB5448D9654151F97D76584",
+  "ActionKeyword":"kill",
+  "Name":"KillPort",
+  "Description":"端口占用杀死进程",
+  "Author":"Sir丶雨轩",
+  "Version":"1.0.0",                        
+  "Language":"cn",
+  "Website":"https://www.yuxuan66.com",
+  "IcoPath": "Images\\pic.png",             
+  "ExecuteFileName":"PluginManagement.dll"  
+}
