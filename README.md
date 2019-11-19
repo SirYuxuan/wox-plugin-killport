@@ -1,37 +1,24 @@
 # wox-plugin-killport
 
 #### 介绍
-wox插件，快捷杀死占用端口的进程
-
-#### 软件架构
-软件架构说明
-
+本项目是一款Wox的插件
+有关Wox请移步 [Wox](https://gitee.com/OrganizationStudy/Wox)
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+alt + space 呼出wox界面
 
-#### 使用说明
+输入
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+```
+wpm install killport
+```
+![info](https://images.gitee.com/uploads/images/2019/1119/163815_04c03591_461804.png "20191119163756.png")
 
-#### 参与贡献
+输入 kill port 进行使用
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+如 kill 8080
+
+![info](https://images.gitee.com/uploads/images/2019/1119/164115_c212fe62_461804.png "QQ截图20191119163756.png")
 
 
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
